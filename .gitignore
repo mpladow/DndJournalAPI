@@ -1,0 +1,5 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DndJournalAPI/.vs/DndJournalAPI/v15/Server/sqlite3
