@@ -1,0 +1,14 @@
+C:\Users\mplad\repo\DndJournalAPI\DndJournalAPI\DndJournalAPI\bin\Debug\netcoreapp2.1\DndJournalAPI.deps.json
+C:\Users\mplad\repo\DndJournalAPI\DndJournalAPI\DndJournalAPI\bin\Debug\netcoreapp2.1\DndJournalAPI.runtimeconfig.json
+C:\Users\mplad\repo\DndJournalAPI\DndJournalAPI\DndJournalAPI\bin\Debug\netcoreapp2.1\DndJournalAPI.runtimeconfig.dev.json
+C:\Users\mplad\repo\DndJournalAPI\DndJournalAPI\DndJournalAPI\bin\Debug\netcoreapp2.1\DndJournalAPI.dll
+C:\Users\mplad\repo\DndJournalAPI\DndJournalAPI\DndJournalAPI\bin\Debug\netcoreapp2.1\DndJournalAPI.pdb
+C:\Users\mplad\repo\DndJournalAPI\DndJournalAPI\DndJournalAPI\obj\Debug\netcoreapp2.1\DndJournalAPI.csprojAssemblyReference.cache
+C:\Users\mplad\repo\DndJournalAPI\DndJournalAPI\DndJournalAPI\obj\Debug\netcoreapp2.1\DndJournalAPI.csproj.CoreCompileInputs.cache
+C:\Users\mplad\repo\DndJournalAPI\DndJournalAPI\DndJournalAPI\obj\Debug\netcoreapp2.1\DndJournalAPI.RazorAssemblyInfo.cache
+C:\Users\mplad\repo\DndJournalAPI\DndJournalAPI\DndJournalAPI\obj\Debug\netcoreapp2.1\DndJournalAPI.RazorAssemblyInfo.cs
+C:\Users\mplad\repo\DndJournalAPI\DndJournalAPI\DndJournalAPI\obj\Debug\netcoreapp2.1\DndJournalAPI.AssemblyInfoInputs.cache
+C:\Users\mplad\repo\DndJournalAPI\DndJournalAPI\DndJournalAPI\obj\Debug\netcoreapp2.1\DndJournalAPI.AssemblyInfo.cs
+C:\Users\mplad\repo\DndJournalAPI\DndJournalAPI\DndJournalAPI\obj\Debug\netcoreapp2.1\DndJournalAPI.RazorTargetAssemblyInfo.cache
+C:\Users\mplad\repo\DndJournalAPI\DndJournalAPI\DndJournalAPI\obj\Debug\netcoreapp2.1\DndJournalAPI.dll
+C:\Users\mplad\repo\DndJournalAPI\DndJournalAPI\DndJournalAPI\obj\Debug\netcoreapp2.1\DndJournalAPI.pdb
