@@ -12,3 +12,17 @@ C:\Users\mplad\repo\DndJournalAPI\DndJournalAPI\DndJournalAPI\obj\Debug\netcorea
 C:\Users\mplad\repo\DndJournalAPI\DndJournalAPI\DndJournalAPI\obj\Debug\netcoreapp2.1\DndJournalAPI.RazorTargetAssemblyInfo.cache
 C:\Users\mplad\repo\DndJournalAPI\DndJournalAPI\DndJournalAPI\obj\Debug\netcoreapp2.1\DndJournalAPI.dll
 C:\Users\mplad\repo\DndJournalAPI\DndJournalAPI\DndJournalAPI\obj\Debug\netcoreapp2.1\DndJournalAPI.pdb
+C:\Users\mplad\repo\DndJournalAPI\DndJournalAPI\DndJournalAPI\bin\Debug\netcoreapp2.1\DndJournalAPI.Views.dll
+C:\Users\mplad\repo\DndJournalAPI\DndJournalAPI\DndJournalAPI\bin\Debug\netcoreapp2.1\DndJournalAPI.Views.pdb
+C:\Users\mplad\repo\DndJournalAPI\DndJournalAPI\DndJournalAPI\obj\Debug\netcoreapp2.1\DndJournalAPI.TagHelpers.input.cache
+C:\Users\mplad\repo\DndJournalAPI\DndJournalAPI\DndJournalAPI\obj\Debug\netcoreapp2.1\DndJournalAPI.TagHelpers.output.cache
+C:\Users\mplad\repo\DndJournalAPI\DndJournalAPI\DndJournalAPI\obj\Debug\netcoreapp2.1\DndJournalAPI.RazorCoreGenerate.cache
+C:\Users\mplad\repo\DndJournalAPI\DndJournalAPI\DndJournalAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\mplad\repo\DndJournalAPI\DndJournalAPI\DndJournalAPI\obj\Debug\netcoreapp2.1\Razor\Views\Users\Create.g.cshtml.cs
+C:\Users\mplad\repo\DndJournalAPI\DndJournalAPI\DndJournalAPI\obj\Debug\netcoreapp2.1\Razor\Views\Users\Delete.g.cshtml.cs
+C:\Users\mplad\repo\DndJournalAPI\DndJournalAPI\DndJournalAPI\obj\Debug\netcoreapp2.1\Razor\Views\Users\Details.g.cshtml.cs
+C:\Users\mplad\repo\DndJournalAPI\DndJournalAPI\DndJournalAPI\obj\Debug\netcoreapp2.1\Razor\Views\Users\Edit.g.cshtml.cs
+C:\Users\mplad\repo\DndJournalAPI\DndJournalAPI\DndJournalAPI\obj\Debug\netcoreapp2.1\Razor\Views\Users\Index.g.cshtml.cs
+C:\Users\mplad\repo\DndJournalAPI\DndJournalAPI\DndJournalAPI\obj\Debug\netcoreapp2.1\DndJournalAPI.RazorTargetAssemblyInfo.cs
+C:\Users\mplad\repo\DndJournalAPI\DndJournalAPI\DndJournalAPI\obj\Debug\netcoreapp2.1\DndJournalAPI.Views.pdb
+C:\Users\mplad\repo\DndJournalAPI\DndJournalAPI\DndJournalAPI\obj\Debug\netcoreapp2.1\DndJournalAPI.csproj.CopyComplete
