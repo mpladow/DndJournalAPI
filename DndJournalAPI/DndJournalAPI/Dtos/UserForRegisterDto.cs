@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace DndJournalAPI.Dtos
 {
-    public class UserDto
+    public class UserForRegisterDto
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }

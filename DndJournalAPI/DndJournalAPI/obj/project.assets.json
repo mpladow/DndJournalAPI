@@ -12606,23 +12606,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mplad\\.nuget\\packages\\": {},
+    "C:\\Users\\Michael\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mplad\\repo\\DndJournalAPI\\DndJournalAPI\\DndJournalAPI\\DndJournalAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Michael\\Projects\\DndJournalAPI\\DndJournalAPI\\DndJournalAPI\\DndJournalAPI.csproj",
       "projectName": "DndJournalAPI",
-      "projectPath": "C:\\Users\\mplad\\repo\\DndJournalAPI\\DndJournalAPI\\DndJournalAPI\\DndJournalAPI.csproj",
-      "packagesPath": "C:\\Users\\mplad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mplad\\repo\\DndJournalAPI\\DndJournalAPI\\DndJournalAPI\\obj\\",
+      "projectPath": "C:\\Users\\Michael\\Projects\\DndJournalAPI\\DndJournalAPI\\DndJournalAPI\\DndJournalAPI.csproj",
+      "packagesPath": "C:\\Users\\Michael\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Michael\\Projects\\DndJournalAPI\\DndJournalAPI\\DndJournalAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\mplad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Michael\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12662,6 +12662,7 @@
             "version": "[2.1.2, )"
           },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true

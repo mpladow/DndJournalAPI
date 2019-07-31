@@ -27,23 +27,7 @@ namespace DndJournalAPI.Controllers
             return View(await _context.Users.ToListAsync());
         }
 
-        public async Task<IActionResult> Register(UserDto userDto)
-        {
-            if (!ModelState.IsValid)
-            {
-                return BadRequest(ModelState);
-            }
-            userDto.Email = userDto.Email.ToLower();
-            if (_authService.UserExists(userDto.Email))
-            {
-                return BadRequest("User already exists");
-            }
-            var userToCreate = new User()
-            {
-                Email = userDto.Email
-            };
-            throw new NotImplementedException();
-        }
+        
 
         private bool EmailExists(int id)
         {
